@@ -3,21 +3,6 @@ site_name: My Docs
 theme:
   name: material
   language: zh
-  palette:
-    primary: indigo
-    scheme: 
-      - default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-      - slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-theme:
-  name: material
-  language: zh
   palette: 
     # Palette toggle for light mode
     - scheme: default
