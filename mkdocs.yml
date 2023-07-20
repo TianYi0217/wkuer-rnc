@@ -7,13 +7,13 @@ theme:
     primary: indigo
     scheme: 
       - default
-        toggle:
-          icon: material/brightness-7 
-          name: Switch to dark mode
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
       - slate
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 markdown_extensions:
   - abbr
