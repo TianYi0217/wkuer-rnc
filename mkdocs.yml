@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: RNC
+
+nav:
+    - 主页: index.md
+    - 四年计划: four-year-plan.md
 
 theme:
   name: material

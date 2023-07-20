@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to RNC
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这是一个资源导航中心，你可以在这里找到：
 
-## Commands
+- 课程教材
+- 和很多
+- 希望你玩得愉快
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 需要更多?
 
-## Project layout
+请尝试发送邮件到 1113834802@qq.com 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+或者添加微信号 azqswedxc
