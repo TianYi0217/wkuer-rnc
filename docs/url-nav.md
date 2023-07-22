@@ -1,3 +1,37 @@
+## [CS自学指南](https://csdiy.wiki/)
+必学工具
+好书推荐
+数学基础
+数学进阶
+编程入门
+电子基础
+数据结构与算法
+软件工程
+体系结构
+操作系统
+并行与分布式系统
+计算机系统安全
+计算机网络
+数据库系统
+编译原理
+计算机图形学
+Web开发
+数据科学
+人工智能
+机器学习
+机器学习系统
+深度学习
+机器学习进阶
+
+---
+
+## [方橙式的博客](https://orangex4.cool/)
+[友链](https://orangex4.cool/friends/)  
+[学霸笔记](https://notes.orangex4.cool/)  
+[计算机学生的第零课](https://orangex4.cool/post/lesson-zero-for-cs-students/)
+
+---
+
 ## [DAC 导航](https://studyhard.eu.org/)
 DAC导航是专为在校大学生创建的导航网站，涵盖资源搜索、学术科研、高效工具、软件资源、影音娱乐、趣味网站、热门导航、免费素材、在线学习、公益实践、升学就业、科学上网、博客组建等  
 [各大高校课程资源汇总，在Github上大学](https://studyhard.cf/)  
@@ -40,3 +74,9 @@ DAC导航是专为在校大学生创建的导航网站，涵盖资源搜索、�
 
 [润学资源大全](https://jubt4.xyz/cn/run.html)
 [友链](https://jubt4.xyz/cn/index.html#%E8%81%9ABT%E5%8F%8B%E7%AB%99)
+
+---
+
+## ChatGPT相关
+
+[提示工程指南](https://www.promptingguide.ai/zh)
