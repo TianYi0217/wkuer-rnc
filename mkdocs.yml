@@ -3,7 +3,8 @@ site_name: RNC
 nav:
     - 主页: index.md
     - 四年计划: four-year-plan.md
-
+    - 课程教材: course-material.md
+    - 链接导航: url-nav.md
 theme:
   name: material
   language: zh

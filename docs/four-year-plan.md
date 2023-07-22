@@ -14,10 +14,9 @@
 | [心理学（文学硕士）](https://wku.edu.cn/academics/cla/psy-ma/)                                              |                                            |                                                 |
 
 ## **建筑与设计学院**
-|              |                                                  |
-|--------------|--------------------------------------------------|
-| [视觉传达](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) | [建筑学](http://design.wku.edu.cn/cn/wp-content/uploads/2023/06/ARCH-Undergraduate-Four-Years-Planning.pdf) |
-| [产品设计](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) | [环境设计](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) |
+|                       |                                      |                                      |                                       |
+|-----------------------|--------------------------------------|--------------------------------------|---------------------------------------|
+| [视觉传达](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) | [建筑学](http://design.wku.edu.cn/cn/wp-content/uploads/2023/06/ARCH-Undergraduate-Four-Years-Planning.pdf) | [产品设计](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) | [环境设计](https://docs.google.com/spreadsheets/d/14RC2C08HpnGjBBhg1i43usNEDJQsnqs_yU2xF6moSpA/edit#gid=179070593) |
 
 ## **理工学院**
 
@@ -28,5 +27,6 @@
 
 ## 辅修
 
-### 计算机科学
-
+|                                |                                                |                                             |                                                   |
+|--------------------------------|------------------------------------------------|---------------------------------------------|---------------------------------------------------|
+| [计算机科学](https://wku.edu.cn/wp-content/uploads/2021/05/CPS-minor.pdf)           | [化学](https://wku.edu.cn/wp-content/uploads/2022/03/chem-minor-sheet-1.pdf)        | [数学](https://wku.edu.cn/wp-content/uploads/2021/05/math-minor.pdf)         | [生物](https://wku.edu.cn/wp-content/uploads/2021/05/BIo-minor.pdf)          |
