@@ -4,6 +4,10 @@
 
 温肯有官方校园版Microsoft服务, 请参阅WKUAlpha的[Office 365 下载指南](https://mp.weixin.qq.com/s/03YLXyNmnqBiyGyshFLtAw)来获取Word, Excel 和 PowerPoint
 
+## [LockDown 浏览器](https://download.respondus.com/lockdown/download.php?id=356540564)
+
+考试用防作弊浏览器
+
 ## [Chrome 浏览器](https://www.google.com/chrome/)
 
 电脑不自带但是安装量第一的神级浏览器, 搭配插件有数不尽的玩法
