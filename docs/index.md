@@ -11,8 +11,8 @@
 
 
 
-## 帮助
+## 反馈
 
 如果这里没有你希望看到的信息或者有任何建议, 请帮助我们, 让我们在下次更新时涵盖更多  
 可以在项目的[GitHub Issue](https://github.com/TianYi0217/wkuer-rnc/issues)里面[发帖](https://github.com/TianYi0217/wkuer-rnc/issues/new)  
-或者添加微信号 azqswedxc
+或者添加微信号 azqswedxc 来帮助本文档变得更好!
