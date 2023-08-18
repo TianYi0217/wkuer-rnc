@@ -7,6 +7,7 @@ nav:
     - 链接导航: url-nav.md
     - AI加持的学习: acamedic-ai.md
     - 移动校园卡: campus-card.md
+    - 必备软件: software-collection.md
 theme:
   name: material
   language: zh

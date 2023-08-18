@@ -1,3 +1,30 @@
+目录很深, 能探索很久很久, 涵盖了超多方面
+
+## [DAC 导航](https://studyhard.eu.org/)
+DAC导航是专为在校大学生创建的导航网站，涵盖资源搜索、学术科研、高效工具、软件资源、影音娱乐、趣味网站、热门导航、免费素材、在线学习、公益实践、升学就业、科学上网、博客组建等  
+[各大高校课程资源汇总，在Github上大学](https://studyhard.cf/)  
+[各大高校留学、保研、考研、就业经验分享 ](https://career-plan.eu.org/)  
+[DAC导航的文件共享区](http://nwuzmed.ysepan.com/)  
+[ƝⱲƲzʍҽժ's աօɾƖ博客站](https://ccus.cf/)  
+[综合搜索网站](https://www.goooogle.cf/)
+
+---
+
+## [星火资源导航](https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2)
+影视 音乐 综艺 电视剧 纪录片 动漫 漫画 二次元 小说 电子书 图片 教程 课程 软件
+
+---
+
+## [开源工具导航](https://nav.newzone.top/)
+
+图片处理 文字编辑 AI工具 在线工具 视频素材 平面设计 文档引擎 播客资源 IT编程 网页前端 软件资源 影视资源 字幕资源
+
+[开源笔记](https://newzone.top/)  
+[ChatGPT 指令](https://www.aishort.top/)  
+[博客文章](https://newzone.top/blog.html)
+
+---
+
 ## [CS自学指南](https://csdiy.wiki/)
 必学工具
 好书推荐
@@ -29,31 +56,6 @@ Web开发
 [友链](https://orangex4.cool/friends/)  
 [学霸笔记](https://notes.orangex4.cool/)  
 [计算机学生的第零课](https://orangex4.cool/post/lesson-zero-for-cs-students/)
-
----
-
-## [DAC 导航](https://studyhard.eu.org/)
-DAC导航是专为在校大学生创建的导航网站，涵盖资源搜索、学术科研、高效工具、软件资源、影音娱乐、趣味网站、热门导航、免费素材、在线学习、公益实践、升学就业、科学上网、博客组建等  
-[各大高校课程资源汇总，在Github上大学](https://studyhard.cf/)  
-[各大高校留学、保研、考研、就业经验分享 ](https://career-plan.eu.org/)  
-[DAC导航的文件共享区](http://nwuzmed.ysepan.com/)  
-[ƝⱲƲzʍҽժ's աօɾƖ博客站](https://ccus.cf/)  
-[综合搜索网站](https://www.goooogle.cf/)
-
----
-
-## [星火资源导航](https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2)
-影视 音乐 综艺 电视剧 纪录片 动漫 漫画 二次元 小说 电子书 图片 教程 课程 软件
-
----
-
-## [开源工具导航](https://nav.newzone.top/)
-
-图片处理 文字编辑 AI工具 在线工具 视频素材 平面设计 文档引擎 播客资源 IT编程 网页前端 软件资源 影视资源 字幕资源
-
-[开源笔记](https://newzone.top/)  
-[ChatGPT 指令](https://www.aishort.top/)  
-[博客文章](https://newzone.top/blog.html)
 
 ---
 

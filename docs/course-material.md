@@ -1,5 +1,7 @@
 # 课程教材
 
+目前收集到的大多和计算机四年计划相关, 如果你有资源想要共享的话欢迎投递
+
 ## ACCT
 
 [ACCT 2200](https://www.123pan.com/s/uzcLVv-YfhVh.html)  
