@@ -23,4 +23,4 @@
 
 如果这里没有你希望看到的信息或者有任何建议, 请帮助我们, 让我们在下次更新时涵盖更多  
 可以在项目的[GitHub Issue](https://github.com/TianYi0217/wkuer-rnc/issues)里面[发布议题](https://github.com/TianYi0217/wkuer-rnc/issues/new)  
-或者添加QQ [1113834802](https://wpa.qq.com/msgrd?v=3&uin=1113834802&site=qq&menu=yes&jumpflag=1) 来和我们共建快捷省力的说明文档 !
+或者添加QQ [1113834802](https://wpa.qq.com/msgrd?v=3&uin=1113834802&site=qq&menu=yes&jumpflag=1) 来和我们共建快捷省力的文档 !

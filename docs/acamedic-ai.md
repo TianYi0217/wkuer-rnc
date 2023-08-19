@@ -14,3 +14,7 @@
 ## [ChatWithPaper](https://chatwithpaper.org/) 和 [学术版GPT](https://academic.chatwithpaper.org/)
 
 无需多言的一站式学术工具, ChatPaper速读+学术版GPT arXiv全文翻译
+
+## 更多
+
+更多玩法可以参阅[DAC导航](https://studyhard.eu.org/)中的链接们

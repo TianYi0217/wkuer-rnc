@@ -10,11 +10,29 @@
 
 每个月都可以领取各大APP会员(爱奇艺, 腾讯视频, 哔哩哔哩, 网易云黑胶, 酷狗音乐, etc)
 
+## 为什么不选择电信?
+
+电信的介绍:
+```
+1校园闪讯支持 电脑有线上网、电脑无线上网、手机无线上网
+登录方式：电信手机号+@KEDX.XY  (13355884990@KEDX.XY)
+密码“可用电信手机号编辑短信  MM发送到 106593005获取
+2手机和电脑下载正确的APP  手机无线管家 可到营业厅扫二维码
+  电脑闪讯客户端可到官网 www.114school.cn下载
+```
+要下载APP, 动态密码要发送短信, 使用繁琐
+
+
+移动的指南:
+[配置校园宽带](https://mp.weixin.qq.com/s/nwi9rDQaQxvhNvh1z5Yu-A)的方式
+
+Windows原生支持的上网方式, 仅需第一次设置, 后续可以一键连接
+
 ## 怎么办理呢
 
 携学生卡和身份证到**中国移动营业厅**(榕楼楼下理发店旁)办理, 添加微信 azqswedxc 来获取支持
 
-<img src="https://raw.githubusercontent.com/TianYi0217/wkuer-rnc/main/docs/imgs/wechat-me.jpg" width="150" height="150">
+<img src="https://s2.loli.net/2023/08/19/gzt31XNFPQA4YOm.png" width="150" height="150" alt="azqswedxc.png">
 
 ---
 
