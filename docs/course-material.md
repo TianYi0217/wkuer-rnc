@@ -40,9 +40,10 @@
 
 ## MATH
 
-[MATH 2110](https://wwnu.lanzouc.com/izeKV15v02te)
-[MATH 2400](https://wwnu.lanzouc.com/icXb015v06cb)
-[MATH 2415 2416 3415](https://wwnu.lanzouc.com/iFWhh15v06wb)
+[MATH 2110](https://wwnu.lanzouc.com/izeKV15v02te)  
+[MATH 2400](https://wwnu.lanzouc.com/icXb015v06cb)  
+MATH 2415 2416 3415 [2e](https://wwnu.lanzouc.com/iCd1u15vthsh) [8e](https://wwnu.lanzouc.com/iFWhh15v06wb)
+[MATH 2526](https://wwnu.lanzouc.com/iRUHq15vtmqf) [中文版](https://www.123pan.com/s/uzcLVv-uTHVh.html)
 
 ## MGS
 
