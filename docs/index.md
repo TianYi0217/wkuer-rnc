@@ -5,6 +5,7 @@
 |------------------------|--------------------------------------------|------------------------------------------------|-----------------------------|--------------------------------------------|
 | [Blackboard](https://blackboard.kean.edu/webapps/login/) | [Canvas](https://kean.instructure.com/) | [教学日历](https://wku.edu.cn/academics/cal/) | [My WKU](https://once.wku.edu.cn/) | [选课直达](https://selfservice.kean.edu/Student/Planning/DegreePlans) |
 |[Gmail(Kean)](https://mail.google.com/) | [Outlook(WKU)](https://outlook.office365.com/mail/) | [谷歌学术](https://scholar.google.com/) |[谷歌翻译](https://translate.google.com/) | [国情选课](http://ps.wku.edu.cn:7777/psp/ps/EMPLOYEE/HRMS/h/?tab=DEFAULT&languageCd=ZHS) |
+|[ChatGPT](https://chat.openai.com/) | [Claude](https://claude.ai/chats) | [DAC-Search](https://www.goooogle.cf/) | |
 
 <br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
@@ -22,5 +23,6 @@
 ## 反馈
 
 如果这里没有你希望看到的信息或者有任何建议, 请帮助我们, 让我们在下次更新时涵盖更多  
+如果你有兴趣做类似的帮助大家的网站, 我们免费提供技术支持并且可以互相跳转
 可以在项目的[GitHub Issue](https://github.com/TianYi0217/wkuer-rnc/issues)里面[发布议题](https://github.com/TianYi0217/wkuer-rnc/issues/new)  
 或者添加QQ [1113834802](https://wpa.qq.com/msgrd?v=3&uin=1113834802&site=qq&menu=yes&jumpflag=1) 来和我们共建快捷省力的文档 !
