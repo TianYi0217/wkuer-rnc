@@ -12,7 +12,7 @@
 
 ## 怎么办理呢
 
-携学生卡和身份证到**中国移动营业厅**(榕楼楼下理发店旁)办理, 添加微信微信 azqswedxc 来获取支持
+携学生卡和身份证到**中国移动营业厅**(榕楼楼下理发店旁)办理, 添加微信 azqswedxc 来获取支持
 
 <img src="https://raw.githubusercontent.com/TianYi0217/wkuer-rnc/main/docs/imgs/wechat-me.jpg" width="150" height="150">
 

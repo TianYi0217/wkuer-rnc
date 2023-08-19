@@ -9,7 +9,7 @@
 
 ## [Scribbr APA Citation Generator](https://www.scribbr.com/apa-citation-generator/)
 
-学术引用生成, 可以直接生成可以使用的Reference和文内引用
+[学术引用](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)生成, 可以直接生成可以使用的Reference和文内引用
 
 ## [ChatWithPaper](https://chatwithpaper.org/) 和 [学术版GPT](https://academic.chatwithpaper.org/)
 

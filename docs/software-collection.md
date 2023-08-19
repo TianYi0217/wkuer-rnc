@@ -44,3 +44,6 @@
 
 epub类型的电子书阅读器, 能结合Z-Library阅读超多书籍
 
+## [Notion](https://www.notion.so/zh-cn)
+
+笔记制作工具, 结合了 网页, Word, Excel 的长处, 简单易用, 清新美观
