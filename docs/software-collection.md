@@ -39,3 +39,8 @@
 ## [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
 
 阻止Windows自动更新! 更新有时候会打断你的计划
+
+## [NeatReader](https://www.neat-reader.cn/downloads)
+
+epub类型的电子书阅读器, 能结合Z-Library阅读超多书籍
+
