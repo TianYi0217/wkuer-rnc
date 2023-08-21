@@ -25,6 +25,8 @@
 
 ## 选课相关
 
+### [Alpha | 选课教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNTI5MTA5OQ==&action=getalbum&album_id=2670708263776452610&subscene=159&subscene=178&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIzNTI5MTA5OQ%3D%3D%26mid%3D2652211432%26idx%3D1%26sn%3D63c910e3800edbf23fd4ed36f10f6260%26chksm%3Df308405cc47fc94ad522a892973a86d9e879f6d5ff56ed5215ea76ea20f64489bf388cc967e2%26scene%3D178%26cur_album_id%3D2670708263776452610%23rd&nolastread=1#wechat_redirect)
+
 ### 中方课的界面文字为什么是英文的?
 
 这是因为WKU Campus默认选项为英文, 你可以在界面右上角 Sign Out, 然后在登录界面, 切换为English, 再切换为中文, 然后登录, 这样系统就会显示为中文了
@@ -58,6 +60,17 @@
 
 ### [如何修改温肯邮箱密码](https://wku.kf5.com/hc/kb/article/1622492/)
 
+## 温肯相关
+
+### [怎么预约校内资源?](https://wku.kf5.com/hc/kb/article/1413903/)
+
+### [怎么使用美肯邮箱登录Zoom?](https://wku.kf5.com/hc/kb/article/1522325/)
+
+### 如何快速联系到校内陌生同学?
+
+手机微信 - 通讯录 - 我的企业及企业联系人 - Wenzhou-Kean University - 企业通讯录 - 搜索
+
+如果你捡到了校园卡或者带身份信息的物品, 可以通过这个方式直接联系到该同学
 
 ---
 
