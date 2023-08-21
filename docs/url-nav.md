@@ -74,7 +74,7 @@ Web开发
 音乐
 软件游戏
 
-[润学资源大全](https://jubt4.xyz/cn/run.html)
+[润学资源大全 含多校飞跃手册](https://jubt4.xyz/cn/run.html)
 [友链](https://jubt4.xyz/cn/index.html#%E8%81%9ABT%E5%8F%8B%E7%AB%99)
 
 ---

@@ -13,6 +13,9 @@ nav:
 theme:
   name: material
   language: zh
+  icon: 
+    logo: material/navigation-variant-outline
+    icon: material/navigation-variant-outline
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -31,3 +34,7 @@ markdown_extensions:
   - abbr
   - attr_list
   - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
