@@ -34,6 +34,13 @@ Windows原生支持的上网方式, 仅需第一次设置, 后续可以一键连
 
 <img src="https://s2.loli.net/2023/08/19/gzt31XNFPQA4YOm.png" width="150" height="150" alt="azqswedxc.png">
 
+## 宽带连接
+
+[Windows宽带账号及连接指南](https://mp.weixin.qq.com/s/oKhn6aYBzI8KHZVssOv2sA)
+
+[苹果系统宽带连接指南](https://mp.weixin.qq.com/s/H8cLcPAVcC0lxaRQANaXPQ)
+
+
 ---
 
 <span style="font-size: 8px;">受信任的广告支持</span>

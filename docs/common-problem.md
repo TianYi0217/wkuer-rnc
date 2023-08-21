@@ -52,6 +52,10 @@
 
 ### [如何转发美肯邮件到温肯邮箱](https://wku.kf5.com/hc/kb/article/1416410/)
 
+### 怎么在一个软件里查看所有邮件?
+
+可以在Outlook里面同时绑定温肯和美肯邮箱
+
 ### [如何在苹果手机/PAD上设置WKU邮箱](https://wku.kf5.com/hc/kb/article/1570726/)
 
 ### [如何在安卓手机上设置WKU邮箱](https://wku.kf5.com/hc/kb/article/1416408/)
