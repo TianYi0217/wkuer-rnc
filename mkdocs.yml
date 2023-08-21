@@ -8,6 +8,7 @@ nav:
     - AI加持的学习: acamedic-ai.md
     - 移动校园卡: campus-card.md
     - 必备软件: software-collection.md
+    - 常见问题: common-problem.md
     - 关于我们: about-us.md
 theme:
   name: material
