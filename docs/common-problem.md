@@ -1,5 +1,7 @@
 # 常见问题
 
+[欢迎分享你的经验!](https://www.wjx.cn/vm/hILINaU.aspx#)
+
 ## 网络相关
 
 ### [如何连接校内WiFi](https://wku.kf5.com/hc/kb/article/1571383/?lang=zh_cn)
