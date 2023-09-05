@@ -5,7 +5,7 @@
 |------------------------|--------------------------------------------|------------------------------------------------|-----------------------------|--------------------------------------------|
 | [Blackboard](https://blackboard.kean.edu/webapps/login/) | [Canvas](https://kean.instructure.com/) | [教学日历](https://wku.edu.cn/academics/cal/) | [My WKU](https://once.wku.edu.cn/) | [选课直达](https://selfservice.kean.edu/Student/Planning/DegreePlans) |
 |[Gmail(Kean)](https://mail.google.com/) | [Outlook(WKU)](https://outlook.office365.com/mail/) | [谷歌学术](https://scholar.google.com/) |[谷歌翻译](https://translate.google.com/) | [中方选课](http://ps.wku.edu.cn:7777/psp/ps/EMPLOYEE/HRMS/h/?tab=DEFAULT&languageCd=ZHS) |
-|[ChatGPT](https://chat.openai.com/) | [Claude](https://claude.ai/chats) | [DAC-Search](https://www.goooogle.cf/) | |
+|[ChatGPT](https://chat.openai.com/) | [Claude](https://claude.ai/chats) | [DAC-Search](https://www.goooogle.cf/) |[教学大纲](https://kean.simplesyllabus.com/en-US/syllabus-library) |
 
 <br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
